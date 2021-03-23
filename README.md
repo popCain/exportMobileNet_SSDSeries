@@ -8,15 +8,15 @@ Export MobileNet_SSD series from Google [Object Detection ZOO](https://github.co
 * MobileNetV3_Small+SSDLite
 * MobileNetV3_Large+SSDLite
 * MobileDet_CPU+SSDLite 
-## Exported file structure
-> expoted_MobileNet*_SSDLite
->> saved_model
->>> variables
->>> saved_model.pb
->> checkpoint
->> frozen_inference_graph.pb
->> model.ckpt.data-00000-of-00001
->> model.ckpt.index
->> model.ckpt.meta
->> pipeline.config
+## Exported file structure  
+expoted_MobileNet*_SSDLite
+> saved_model
+>> variables
+>> saved_model.pb  
+> checkpoint
+> frozen_inference_graph.pb
+> model.ckpt.data-00000-of-00001
+> model.ckpt.index
+> model.ckpt.meta
+> pipeline.config
 
