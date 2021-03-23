@@ -1,7 +1,7 @@
 # exportMobileNet_SSDSeries
 Export MobileNet_SSD series from Google [Object Detection ZOO](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)  
-## Setup Station(Google Object Detection API)
-Download the tensorflow/models repository
+## Setup Station(Tensorflow Object Detection API)
+Download the tensorflow/models repository（[Reference](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1.md)）
 ## Only download operation
 * MobileNetV1+SSDLite
 * MobileNetV2+SSDLite
