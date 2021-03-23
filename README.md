@@ -8,6 +8,7 @@ Export MobileNet_SSD series from Google [Object Detection ZOO](https://github.co
 * MobileNetV3_Small+SSDLite
 * MobileNetV3_Large+SSDLite
 * MobileDet_CPU+SSDLite 
-
+## Exported file structure
+> expoted_MobileNet*_SSDLite
 
 
