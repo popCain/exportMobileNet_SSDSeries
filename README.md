@@ -4,7 +4,7 @@ Export MobileNet_SSD series from Google [Object Detection ZOO](https://github.co
 Download the tensorflow/models repository（[Reference](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1.md)）
 ## Only download operation
 * [MobileNetV1+SSD](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz)
-* [MobileNetV2+SSDLite]((http://download.tensorflow.org/models/object_detection/ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz))
+* [MobileNetV2+SSDLite](http://download.tensorflow.org/models/object_detection/ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz)
 ## Export operation  
 【Note】:The following three models(training results) on the official website cannot be used directly, you need to export `frozen_inference_graph.pb` yourself 
 * MobileNetV3_Small+SSDLite
